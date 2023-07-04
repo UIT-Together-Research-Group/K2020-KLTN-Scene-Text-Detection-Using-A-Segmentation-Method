@@ -1,0 +1,1 @@
+# K2020-KLTN-Scene-Text-Detection-Using-A-Segmentation-Method
